@@ -12,7 +12,7 @@
 [![License](https://img.shields.io/github/license/zidanmp/campus-recruitment-portal)](https://github.com/zidanmp/campus-recruitment-portal/blob/master/License.txt)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-A **fully responsive** web-based Campus Recruitment System for managing campus placements based on the **Model View Controller (MVC) Architecture** made using **Java Enterprise Technologies**. Using this Application, TPO can add drive details and students can register for the same. The system has two users: **__Admin(TPO) and User(Student)__**.
+A **fully responsive** web-based Campus Recruitment System for managing campus placements based on the **Model View Controller (MVC) Architecture** made using **Java Enterprise Technologies**. Using this Application, TPO can add drive details and students can register for the same. The system has two users: **Admin(TPO)** and **User(Student)**.
 
 ## Features
 * TPO can create drives and manage applications.
